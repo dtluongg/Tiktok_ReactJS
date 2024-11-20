@@ -1,0 +1,4 @@
+{
+  "editor.formatOnSave": true, // tự động format sau khi Ctrl + S
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
